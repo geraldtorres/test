@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>bt luxe media</title>
+    <link href="https://geraldtorres.github.io/test/feed.xml" rel="self" />
+    <link href="https://geraldtorres.github.io/test" />
+    <updated>2022-11-03T02:49:17-07:00</updated>
+    <author>
+        <name>BT</name>
+    </author>
+    <id>https://geraldtorres.github.io/test</id>
+
+    <entry>
+        <title>Stoney Hill</title>
+        <author>
+            <name>BT</name>
+        </author>
+        <link href="https://geraldtorres.github.io/test/stoney-hill/"/>
+        <id>https://geraldtorres.github.io/test/stoney-hill/</id>
+
+        <updated>2022-11-03T02:49:17-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Who: Tyler (17) and myself (17) went on about a 4.6 mile&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #2a2a2a;"><strong>Who:</strong><br>Tyler (17) and myself (17) went on about a <u>4.6 mile round trip</u> hike and more.<br><strong>​What:</strong><br>With approximately <u>55 pounds on our backs</u>, we embarked on a morning trek to investigate this abandoned platform and the paths surrounding it.<br><strong>Where:</strong><br>This trek took place in the Santa Monica Mountains, notably in the Calabasas area. You may park at <em>23300 Saddle Peak Rd, Calabasas, CA 91302</em> to get to this location. Start your journey by heading north east along the cracked concrete road. The road splits into two lanes after less than a quarter mile. Continue on the left-hand route, which will soon turn to dirt. This is the only route to get to the ledge that has been abandoned. As you get closer to the point, more paths will branch off, and you should feel free to explore them all.<br><strong>Why:</strong><br>Tyler and I did this climb with weight on our backs since he was training to go to Florida for a Navy Seals program and I wanted to accompany him. The Navy Seals engage in a practice known as <u>'rucking'</u>, in which they journey at a steady pace while carrying at least 35 pounds on their backs in the heat and with all of their gear. Our objective for this trek was to get as close to that feeling as possible. We went backpacking in May, when the weather was starting to warm up. We donned sweatpants under our trousers and three layers of clothing on top: a shirt, a sweater, and a hooded jacket with a mask. The early fog was thick when we started our journey at <u>5 a.m.</u> We were very high up yet the fog was so thick, it felt as if we were backpacking in a dream. We were at a great altitude, but the fog was so dense that it felt like we were <em>trekking in a dream</em>. The wind moved the fog eastward at <u>6:15 a.m.</u>, allowing for clear sky for about 45 minutes, allowing us to enjoy the scenery and take photographs. We opted to explore the adjacent trails and ascend a very steep slope after reaching this abandoned graffitied ledge. We emptied some of our equipment before proceeding because it would be nearly impossible to summit this peak safely with the amount of weight we carried. We also became more at comfortable so that our shots didn't show us all huddled up in our jackets and layers. Going down was difficult, but climbing up felt like we were bouldering with our bags. We certainly sweated enough to fill a bucket, but it was well worth it to explore tunnels and rocks.<br></span><br><a href="https://youtu.be/Xq5acy9O8R8" target="_blank" rel="noopener">youtu.be/Xq5acy9O8R8</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
